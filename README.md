@@ -7,3 +7,6 @@ Goals - Step I:
 - User can specify label, value and colour
 - Using vanilla javascript 
 
+
+
+CC-BY-SA / Diego Codevilla (diegoCode) 
